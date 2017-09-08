@@ -1,0 +1,29 @@
+html {
+    margin: 25px 300px;
+}
+
+.no-pad {
+    padding: inherit
+}
+
+img {
+    padding: 10px 10px;
+}
+
+h1 {
+    font: Verdana;
+    color: teal;
+    text-align: center;
+}
+
+h2 {
+    color: darkred;
+}
+
+p {
+    color: #564F4E;
+}
+
+a {
+    color: teal;
+}
