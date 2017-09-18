@@ -27,3 +27,11 @@ p {
 a {
     color: teal;
 }
+
+p.line_2 {
+    font-style: italic;
+}
+
+#table {
+    background-color: lightgray;
+}
